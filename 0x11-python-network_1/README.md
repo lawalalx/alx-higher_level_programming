@@ -5,8 +5,6 @@ libraries to send and receive HTTP messages to URL's. I practiced sending `GET`
 and `POST` requests, fetching JSON resources, and interacting with API's (the
 Star Wars API, GitHub API, and Twitter API).
 
-## Tasks :page_with_curl:
-
 * **0. What's my status? #0**
   * [0-hbtn_status.py](./0-hbtn_status.py): Python script that fetches
   `https://intranet.hbtn.io/status`.
